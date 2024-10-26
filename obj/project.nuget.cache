@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "A571x9AHtUfVm4trwmde6X6yuzjHLBZmtofzunyN/t44x7/W9X45w990Ktid8NR+QkcS3lXJnW50YCoZPnOaeg==",
+  "success": true,
+  "projectFilePath": "/Users/katyazubareva/Desktop/ПРОГА/C#/Lab4/Lab4.csproj",
+  "expectedPackageFiles": [
+    "/Users/katyazubareva/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/katyazubareva/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/katyazubareva/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/katyazubareva/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/katyazubareva/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/katyazubareva/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
